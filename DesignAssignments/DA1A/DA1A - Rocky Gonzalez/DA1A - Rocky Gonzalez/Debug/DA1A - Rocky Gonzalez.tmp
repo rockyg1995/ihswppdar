@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\Debug\DA1A - Rocky Gonzalez.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1A - Rocky Gonzalez.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1A - Rocky Gonzalez.map</FILE>
+  <FILE>DA1A - Rocky Gonzalez.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <chckif><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>32</LINE></chckif>
+  <else><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>36</LINE></else>
+  <repeat><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>43</LINE></repeat>
+  <end><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>62</LINE></end>
+  <prod1><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>51</LINE></prod1>
+  <cont><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>45</LINE></cont>
+  <prod2><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>57</LINE></prod2>
+  <endf><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA1A - Rocky Gonzalez\DA1A - Rocky Gonzalez\main.asm</FILE><LINE>65</LINE></endf>
+ </LABELS>
+</ASSEMBLER_INFO>
