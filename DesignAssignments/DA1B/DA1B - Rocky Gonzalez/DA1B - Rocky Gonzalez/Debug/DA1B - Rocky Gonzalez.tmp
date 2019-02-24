@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\Debug\DA1B - Rocky Gonzalez.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1B - Rocky Gonzalez.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1B - Rocky Gonzalez.map</FILE>
+  <FILE>DA1B - Rocky Gonzalez.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Cont1><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>25</LINE></Cont1>
+  <L1><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>34</LINE></L1>
+  <LoadY><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>38</LINE></LoadY>
+  <Cont2><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>28</LINE></Cont2>
+  <end><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>66</LINE></end>
+  <Repeat><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>39</LINE></Repeat>
+  <LoadZ><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>50</LINE></LoadZ>
+  <ext1><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>56</LINE></ext1>
+  <ext2><FILE>C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA1B\DA1B - Rocky Gonzalez\DA1B - Rocky Gonzalez\main.asm</FILE><LINE>61</LINE></ext2>
+ </LABELS>
+</ASSEMBLER_INFO>
