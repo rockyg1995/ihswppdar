@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\Debug\DA2A_T2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2A_T2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2A_T2.map</FILE>
+  <FILE>DA2A_T2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <check><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\main.asm</FILE><LINE>18</LINE></check>
+  <delay1250ms><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\main.asm</FILE><LINE>27</LINE></delay1250ms>
+  <L3><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\main.asm</FILE><LINE>32</LINE></L3>
+  <L2><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\main.asm</FILE><LINE>33</LINE></L2>
+  <L1><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2A_T2\DA2A_T2\main.asm</FILE><LINE>34</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
