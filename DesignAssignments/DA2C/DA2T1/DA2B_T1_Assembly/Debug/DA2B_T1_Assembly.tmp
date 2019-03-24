@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\Debug\DA2B_T1_Assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2B_T1_Assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2B_T1_Assembly.map</FILE>
+  <FILE>DA2B_T1_Assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Main><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>13</LINE></Main>
+  <EX0_ISR><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>115</LINE></EX0_ISR>
+  <Repeat><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>30</LINE></Repeat>
+  <delay435ms><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>37</LINE></delay435ms>
+  <delay290ms><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>63</LINE></delay290ms>
+  <L3><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>42</LINE></L3>
+  <L2><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>43</LINE></L2>
+  <L1><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>44</LINE></L1>
+  <M3><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>68</LINE></M3>
+  <M2><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>69</LINE></M2>
+  <M1><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>70</LINE></M1>
+  <delay1s><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>89</LINE></delay1s>
+  <N3><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>94</LINE></N3>
+  <N2><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>95</LINE></N2>
+  <N1><FILE>C:\Users\rocky\Documents\Atmel Studio\7.0\DA2T1\DA2B_T1_Assembly\main.asm</FILE><LINE>96</LINE></N1>
+ </LABELS>
+</ASSEMBLER_INFO>
