@@ -8,4 +8,4 @@ Primary Github address: https://github.com/rockyg1995/ihswppdar
 
 Directory: C:\Users\rocky\Documents\CpE 301+L - Embedded Systems Design\CpE 301\Repository\DesignAssignments\DA4B
 
-Videos: https://youtu.be/CwPMm-LuCxk
+Videos: https://youtu.be/eE69veufFVU
